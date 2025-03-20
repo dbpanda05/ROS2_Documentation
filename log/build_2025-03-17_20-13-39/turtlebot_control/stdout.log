@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/turtlebot_control/turtlebot_control.egg-info
+writing ../build/turtlebot_control/turtlebot_control.egg-info/PKG-INFO
+writing dependency_links to ../build/turtlebot_control/turtlebot_control.egg-info/dependency_links.txt
+writing entry points to ../build/turtlebot_control/turtlebot_control.egg-info/entry_points.txt
+writing requirements to ../build/turtlebot_control/turtlebot_control.egg-info/requires.txt
+writing top-level names to ../build/turtlebot_control/turtlebot_control.egg-info/top_level.txt
+writing manifest file '../build/turtlebot_control/turtlebot_control.egg-info/SOURCES.txt'
+reading manifest file '../build/turtlebot_control/turtlebot_control.egg-info/SOURCES.txt'
+writing manifest file '../build/turtlebot_control/turtlebot_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/debarghya/ros2_ws/src/build/turtlebot_control/build
+creating /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib
+creating /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control
+copying turtlebot_control/turtle_path_controller.py -> /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control
+copying turtlebot_control/__init__.py -> /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control
+copying turtlebot_control/collision_detector.py -> /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control
+running install
+running install_lib
+creating /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control
+copying /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control/turtle_path_controller.py -> /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control
+copying /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control/__init__.py -> /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control
+copying /home/debarghya/ros2_ws/src/build/turtlebot_control/build/lib/turtlebot_control/collision_detector.py -> /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control
+byte-compiling /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control/turtle_path_controller.py to turtle_path_controller.cpython-310.pyc
+byte-compiling /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control/collision_detector.py to collision_detector.cpython-310.pyc
+running install_data
+creating /home/debarghya/ros2_ws/src/install/turtlebot_control/share/ament_index
+creating /home/debarghya/ros2_ws/src/install/turtlebot_control/share/ament_index/resource_index
+creating /home/debarghya/ros2_ws/src/install/turtlebot_control/share/ament_index/resource_index/packages
+copying resource/turtlebot_control -> /home/debarghya/ros2_ws/src/install/turtlebot_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/debarghya/ros2_ws/src/install/turtlebot_control/share/turtlebot_control
+running install_egg_info
+Copying ../build/turtlebot_control/turtlebot_control.egg-info to /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/python3.10/site-packages/turtlebot_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing collision_detector script to /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/turtlebot_control
+Installing turtle_path_controller script to /home/debarghya/ros2_ws/src/install/turtlebot_control/lib/turtlebot_control
+writing list of installed files to '/home/debarghya/ros2_ws/src/build/turtlebot_control/install.log'
