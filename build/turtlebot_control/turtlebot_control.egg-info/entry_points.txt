@@ -1,0 +1,4 @@
+[console_scripts]
+collision_detector = turtlebot_control.collision_detector:main
+turtle_path_controller = turtlebot_control.turtle_path_controller:main
+
